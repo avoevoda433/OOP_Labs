@@ -1,6 +1,6 @@
 using System;
 				
-public class MyClass
+public class MyClassA
 {
 	float a = 2.3F;
 	float b = 4.9F;
@@ -27,7 +27,7 @@ public class Program
 {
 	public static void Main()
 	{
-		MyClass MyObject = new MyClass();
+		MyClassA MyObject = new MyClassA();
 		Console.WriteLine(string.Format("C0 result: {0}\nC1 result: {1}\nC2 result: {2}\n", 
 										MyObject.C0, MyObject.C1, MyObject.C2));
 	}
