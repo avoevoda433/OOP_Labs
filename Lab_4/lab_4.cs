@@ -116,6 +116,7 @@ public class Program
 		{
 		    int_obj[i] = i;
 		}
+		Console.WriteLine(MyClassC.message);
 		Console.WriteLine("Массив строк");
 		for (int i=0; i<3; i++)
 		{
