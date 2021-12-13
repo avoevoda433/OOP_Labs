@@ -1,0 +1,10 @@
+C:\Users\avoev\source\repos\Lab10ex1\Lab10ex1\bin\Debug\Lab10ex1.exe.config
+C:\Users\avoev\source\repos\Lab10ex1\Lab10ex1\bin\Debug\Lab10ex1.exe
+C:\Users\avoev\source\repos\Lab10ex1\Lab10ex1\bin\Debug\Lab10ex1.pdb
+C:\Users\avoev\source\repos\Lab10ex1\Lab10ex1\obj\Debug\Lab10ex1.csproj.SuggestedBindingRedirects.cache
+C:\Users\avoev\source\repos\Lab10ex1\Lab10ex1\obj\Debug\Lab10ex1.Form1.resources
+C:\Users\avoev\source\repos\Lab10ex1\Lab10ex1\obj\Debug\Lab10ex1.Properties.Resources.resources
+C:\Users\avoev\source\repos\Lab10ex1\Lab10ex1\obj\Debug\Lab10ex1.csproj.GenerateResource.cache
+C:\Users\avoev\source\repos\Lab10ex1\Lab10ex1\obj\Debug\Lab10ex1.csproj.CoreCompileInputs.cache
+C:\Users\avoev\source\repos\Lab10ex1\Lab10ex1\obj\Debug\Lab10ex1.exe
+C:\Users\avoev\source\repos\Lab10ex1\Lab10ex1\obj\Debug\Lab10ex1.pdb
