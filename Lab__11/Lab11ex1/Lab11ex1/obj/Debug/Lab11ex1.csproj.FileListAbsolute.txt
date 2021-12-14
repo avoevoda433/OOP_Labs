@@ -1,0 +1,16 @@
+C:\Users\avoev\source\repos\Lab11ex1\Lab11ex1\bin\Debug\Lab11ex1.exe.config
+C:\Users\avoev\source\repos\Lab11ex1\Lab11ex1\bin\Debug\Lab11ex1.exe
+C:\Users\avoev\source\repos\Lab11ex1\Lab11ex1\bin\Debug\Lab11ex1.pdb
+C:\Users\avoev\source\repos\Lab11ex1\Lab11ex1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\avoev\source\repos\Lab11ex1\Lab11ex1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\avoev\source\repos\Lab11ex1\Lab11ex1\obj\Debug\Lab11ex1.csproj.AssemblyReference.cache
+C:\Users\avoev\source\repos\Lab11ex1\Lab11ex1\obj\Debug\Lab11ex1.csproj.SuggestedBindingRedirects.cache
+C:\Users\avoev\source\repos\Lab11ex1\Lab11ex1\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\avoev\source\repos\Lab11ex1\Lab11ex1\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\avoev\source\repos\Lab11ex1\Lab11ex1\obj\Debug\Lab11ex1.csproj.ResolveComReference.cache
+C:\Users\avoev\source\repos\Lab11ex1\Lab11ex1\obj\Debug\Lab11ex1.Form1.resources
+C:\Users\avoev\source\repos\Lab11ex1\Lab11ex1\obj\Debug\Lab11ex1.Properties.Resources.resources
+C:\Users\avoev\source\repos\Lab11ex1\Lab11ex1\obj\Debug\Lab11ex1.csproj.GenerateResource.cache
+C:\Users\avoev\source\repos\Lab11ex1\Lab11ex1\obj\Debug\Lab11ex1.csproj.CoreCompileInputs.cache
+C:\Users\avoev\source\repos\Lab11ex1\Lab11ex1\obj\Debug\Lab11ex1.exe
+C:\Users\avoev\source\repos\Lab11ex1\Lab11ex1\obj\Debug\Lab11ex1.pdb
