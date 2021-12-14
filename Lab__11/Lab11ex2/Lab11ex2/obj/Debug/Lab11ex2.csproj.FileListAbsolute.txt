@@ -1,0 +1,11 @@
+C:\Users\avoev\source\repos\Lab11ex2\Lab11ex2\bin\Debug\Lab11ex2.exe.config
+C:\Users\avoev\source\repos\Lab11ex2\Lab11ex2\bin\Debug\Lab11ex2.exe
+C:\Users\avoev\source\repos\Lab11ex2\Lab11ex2\bin\Debug\Lab11ex2.pdb
+C:\Users\avoev\source\repos\Lab11ex2\Lab11ex2\obj\Debug\Lab11ex2.csproj.AssemblyReference.cache
+C:\Users\avoev\source\repos\Lab11ex2\Lab11ex2\obj\Debug\Lab11ex2.csproj.SuggestedBindingRedirects.cache
+C:\Users\avoev\source\repos\Lab11ex2\Lab11ex2\obj\Debug\Lab11ex2.Form1.resources
+C:\Users\avoev\source\repos\Lab11ex2\Lab11ex2\obj\Debug\Lab11ex2.Properties.Resources.resources
+C:\Users\avoev\source\repos\Lab11ex2\Lab11ex2\obj\Debug\Lab11ex2.csproj.GenerateResource.cache
+C:\Users\avoev\source\repos\Lab11ex2\Lab11ex2\obj\Debug\Lab11ex2.csproj.CoreCompileInputs.cache
+C:\Users\avoev\source\repos\Lab11ex2\Lab11ex2\obj\Debug\Lab11ex2.exe
+C:\Users\avoev\source\repos\Lab11ex2\Lab11ex2\obj\Debug\Lab11ex2.pdb
